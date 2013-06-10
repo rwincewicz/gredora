@@ -1,0 +1,16 @@
+/* 
+    Document   : gredora
+    Created on : 10-Jun-2013, 18:34:13
+    Author     : rwincewicz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#stringContent {
+    display: none;
+}
+
